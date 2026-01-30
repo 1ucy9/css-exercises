@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+#class1 {
+  background-color: #FA2A55;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+  font-size: 24px;
+}
+
+#class2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#class4 {
+    background-color: #65fa2a;
+    font-size: 24px;
+    font-weight: bold;
+
+}
